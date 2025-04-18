@@ -26,9 +26,7 @@ const Footer = () => {
               <li className="mb-4">
                 <a href="https://wmsu.edu.ph/" className="hover:underline">WMSU Official</a>
               </li>
-              <li>
-                <a href="https://tailwindcss.com/" className="hover:underline">Tailwind CSS</a>
-              </li>
+              
             </ul>
           </div>
 
